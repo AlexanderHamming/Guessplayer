@@ -1,0 +1,1860 @@
+{
+  "svararespelare": [
+      {
+        "id": 1,
+        "namn": "Steven Pienaar",
+        "spelarKarriar": [
+          {
+            "år": "1999-2001",
+            "klubb":"Ajax Cape Town",
+            "seriematcher": 24,
+            "mål": 6,
+            "klubbLand": "Sydafrika"
+          },
+          {
+            "år": "2001-2006",
+            "klubb": "AFC Ajax",
+            "seriematcher": 94,
+            "mål": 15,
+            "klubbLand": "Nederländerna"
+          },
+          {
+            "år": "2006-2008",
+            "klubb": "Borussia Dortmund",
+            "seriematcher": 25,
+            "mål": 0,
+            "klubbLand": "Tyskland"
+          },
+          {
+            "år": "2007-2008",
+            "klubb": "Everton (lån)",
+            "seriematcher": 28,
+            "mål": 2,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2008-2011",
+            "klubb": "Everton",
+            "seriematcher": 76,
+            "mål": 8,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "Tottenham Hotspur",
+            "seriematcher": 10,
+            "mål": 0,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2012",
+            "klubb": "Everton (lån)",
+            "seriematcher": 14,
+            "mål": 4,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2012-2016",
+            "klubb": "Everton",
+            "seriematcher": 71,
+            "mål": 7,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "Sunderland",
+            "seriematcher": 15,
+            "mål": 0,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2017-2018",
+            "klubb": "Bidvest Wits",
+            "seriematcher": 6,
+            "mål": 0,
+            "klubbLand": "Sydafrika"
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2002-2012",
+            "landslag": "Sydafrika",
+            "landslagsmatcher": 62,
+            "landslagsmål": 3
+          }
+        ]
+      }
+      ,
+      {
+        "id": 2,
+        "namn": "Aiden McGeady",
+        "spelarKarriar": [
+          {
+            "år": "2004-2010",
+            "klubb": "Celtic",
+            "seriematcher": 185,
+            "mål": 32,
+            "klubbLand": "Skottland"
+          },
+          {
+            "år": "2010-2014",
+            "klubb": "Spartak Moskva",
+            "seriematcher": 72,
+            "mål": 12,
+            "klubbLand": "Ryssland"
+          },
+          {
+            "år": "2014-2017",
+            "klubb": "Everton",
+            "seriematcher": 32,
+            "mål": 1,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2016",
+            "klubb": "Sheffield Wednesday (lån)",
+            "seriematcher": 13,
+            "mål": 1,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "Preston North End (lån)",
+            "seriematcher": 34,
+            "mål": 8,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2017-2022",
+            "klubb": "Sunderland",
+            "seriematcher": 127,
+            "mål": 29,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2020",
+            "klubb": "Charlton Athletic (lån)",
+            "seriematcher": 10,
+            "mål": 0,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2022-",
+            "klubb": "Hibernian",
+            "seriematcher": 0,
+            "mål": 0,
+            "klubbLand": "Skottland"
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2004-2006",
+            "landslag": "Irland U21",
+            "landslagsmatcher": 12,
+            "landslagsmål": 1
+          },
+          {
+            "år": "2004-2017",
+            "landslag": "Irland",
+            "landslagsmatcher": 93,
+            "landslagsmål": 5
+          }
+        ]
+      }
+      ,
+      {
+        "id": 3,
+        "namn": "Jackson Arley Martínez Valencia",
+        "spelarKarriar": [
+          {
+            "år": "2004-2010",
+            "klubb": "Independiente Medellín",
+            "seriematcher": 136,
+            "mål": 55,
+            "klubbLand": "Colombia"
+          },
+          {
+            "år": "2010-2012",
+            "klubb": "Jaguares",
+            "seriematcher": 58,
+            "mål": 28,
+            "klubbLand": "Mexiko"
+          },
+          {
+            "år": "2012-2015",
+            "klubb": "FC Porto",
+            "seriematcher": 89,
+            "mål": 67,
+            "klubbLand": "Portugal"
+          },
+          {
+            "år": "2015-2016",
+            "klubb": "Atlético Madrid",
+            "seriematcher": 15,
+            "mål": 2,
+            "klubbLand": "Spanien"
+          },
+          {
+            "år": "2016-2019",
+            "klubb": "Guangzhou Evergrande",
+            "seriematcher": 10,
+            "mål": 4,
+            "klubbLand": "Kina"
+          },
+          {
+            "år": "2018-2019",
+            "klubb": "Portimonense (lån)",
+            "seriematcher": 27,
+            "mål": 9,
+            "klubbLand": "Portugal"
+          },
+          {
+            "år": "2019-",
+            "klubb": "Portimonense",
+            "seriematcher": 5,
+            "mål": 0,
+            "klubbLand": "Portugal"
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009-2015",
+            "landslag": "Colombia",
+            "landslagsmatcher": 40,
+            "landslagsmål": 8
+          }
+        ]
+      }
+      ,
+      {
+        "id": 4,
+        "namn": "Quincy Anton Promes",
+        "spelarKarriar": [
+          {
+            "år": "2011-2014",
+            "klubb": "Twente",
+            "seriematcher": 34,
+            "mål": 11,
+            "klubbLand": "Nederländerna"
+          },
+          {
+            "år": "2012-2013",
+            "klubb": "Go Ahead Eagles (lån)",
+            "seriematcher": 32,
+            "mål": 13,
+            "klubbLand": "Nederländerna"
+          },
+          {
+            "år": "2014-2018",
+            "klubb": "Spartak Moskva",
+            "seriematcher": 115,
+            "mål": 59,
+            "klubbLand": "Ryssland"
+          },
+          {
+            "år": "2018-2019",
+            "klubb": "Sevilla",
+            "seriematcher": 33,
+            "mål": 2,
+            "klubbLand": "Spanien"
+          },
+          {
+            "år": "2019-2021",
+            "klubb": "Ajax",
+            "seriematcher": 39,
+            "mål": 18,
+            "klubbLand": "Nederländerna"
+          },
+          {
+            "år": "2021-",
+            "klubb": "Spartak Moskva",
+            "seriematcher": 26,
+            "mål": 8,
+            "klubbLand": "Ryssland"
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2011",
+            "landslag": "Nederländerna U19",
+            "landslagsmatcher": 5,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2012-2013",
+            "landslag": "Nederländerna U20",
+            "landslagsmatcher": 4,
+            "landslagsmål": 1
+          },
+          {
+            "år": "2013-2014",
+            "landslag": "Nederländerna U21",
+            "landslagsmatcher": 10,
+            "landslagsmål": 7
+          },
+          {
+            "år": "2014-2021",
+            "landslag": "Nederländerna",
+            "landslagsmatcher": 50,
+            "landslagsmål": 7
+          }
+        ]
+      }
+      ,
+      {
+        "id": 5,
+        "namn": "Florian Thauvin",
+        "spelarKarriar": [
+          {
+            "år": "2010-2011",
+            "klubb": "Grenoble",
+            "seriematcher": 3,
+            "mål": 0,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2011-2013",
+            "klubb": "Bastia",
+            "seriematcher": 29,
+            "mål": 3,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2013",
+            "klubb": "Lille",
+            "seriematcher": 0,
+            "mål": 0,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2013",
+            "klubb": "Bastia (lån)",
+            "seriematcher": 16,
+            "mål": 7,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2013-2015",
+            "klubb": "Marseille",
+            "seriematcher": 69,
+            "mål": 13,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2015-2017",
+            "klubb": "Newcastle United",
+            "seriematcher": 13,
+            "mål": 0,
+            "klubbLand": "England"
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "Marseille (lån)",
+            "seriematcher": 52,
+            "mål": 17,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2017-2021",
+            "klubb": "Marseille",
+            "seriematcher": 105,
+            "mål": 46,
+            "klubbLand": "Frankrike"
+          },
+          {
+            "år": "2021-2023",
+            "klubb": "Tigres UANL",
+            "seriematcher": 38,
+            "mål": 8,
+            "klubbLand": "Mexiko"
+          },
+          {
+            "år": "2023-",
+            "klubb": "Udinese",
+            "seriematcher": 25,
+            "mål": 1,
+            "klubbLand": "Italien"
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2011-2012",
+            "landslag": "Frankrike U18",
+            "landslagsmatcher": 2,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2012",
+            "landslag": "Frankrike U19",
+            "landslagsmatcher": 2,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2012-2013",
+            "landslag": "Frankrike U20",
+            "landslagsmatcher": 16,
+            "landslagsmål": 7
+          },
+          {
+            "år": "2013-2014",
+            "landslag": "Frankrike U21",
+            "landslagsmatcher": 10,
+            "landslagsmål": 7
+          },
+          {
+            "år": "2021",
+            "landslag": "Frankrike U23",
+            "landslagsmatcher": 4,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2017-",
+            "landslag": "Frankrike",
+            "landslagsmatcher": 10,
+            "landslagsmål": 1
+          }
+        ]
+      }
+      ,
+      
+      {
+        "id": 6,
+        "namn": "Yossi Benayoun",
+        "spelarKarriar": [
+          {
+            "år": "1997-2002",
+            "klubb": "Hapoel Be'er Sheva",
+            "klubbLand": "Israel",
+            "seriematcher": 93,
+            "mål": 19
+          },
+          {
+            "år": "2000-2002",
+            "klubb": "→ Racing de Santander (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 61,
+            "mål": 6
+          },
+          {
+            "år": "2002-2005",
+            "klubb": "Maccabi Haifa",
+            "klubbLand": "Israel",
+            "seriematcher": 79,
+            "mål": 23
+          },
+          {
+            "år": "2005-2007",
+            "klubb": "West Ham United",
+            "klubbLand": "England",
+            "seriematcher": 63,
+            "mål": 8
+          },
+          {
+            "år": "2007-2010",
+            "klubb": "Liverpool",
+            "klubbLand": "England",
+            "seriematcher": 92,
+            "mål": 14
+          },
+          {
+            "år": "2010-2011",
+            "klubb": "Chelsea",
+            "klubbLand": "England",
+            "seriematcher": 14,
+            "mål": 2
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "Arsenal",
+            "klubbLand": "England",
+            "seriematcher": 19,
+            "mål": 4
+          },
+          {
+            "år": "2012-2013",
+            "klubb": "West Ham United",
+            "klubbLand": "England",
+            "seriematcher": 21,
+            "mål": 3
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "Chelsea",
+            "klubbLand": "England",
+            "seriematcher": 9,
+            "mål": 0
+          },
+          {
+            "år": "2014-2015",
+            "klubb": "Queens Park Rangers",
+            "klubbLand": "England",
+            "seriematcher": 19,
+            "mål": 2
+          },
+          {
+            "år": "2015-2016",
+            "klubb": "Maccabi Haifa",
+            "klubbLand": "Israel",
+            "seriematcher": 23,
+            "mål": 2
+          },
+          {
+            "år": "2016-2018",
+            "klubb": "Maccabi Tel Aviv",
+            "klubbLand": "Israel",
+            "seriematcher": 47,
+            "mål": 6
+          },
+          {
+            "år": "2018",
+            "klubb": "Hapoel Be'er Sheva",
+            "klubbLand": "Israel",
+            "seriematcher": 7,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "1998-2001",
+            "landslag": "Israel U21",
+            "landslagsmatcher": 27,
+            "landslagsmål": 6
+          },
+          {
+            "år": "1998-2013",
+            "landslag": "Israel",
+            "landslagsmatcher": 102,
+            "landslagsmål": 24
+          }
+          ]
+      }
+      ,
+      {
+        "id": 7,
+        "namn": "Juan Manuel Iturbe Arévalos",
+        "spelarKarriar": [
+          {
+            "år": "2008-2010",
+            "klubb": "Cerro Porteño",
+            "klubbLand": "Paraguay",
+            "seriematcher": 22,
+            "mål": 3
+          },
+          {
+            "år": "2010-2013",
+            "klubb": "Porto",
+            "klubbLand": "Portugal",
+            "seriematcher": 6,
+            "mål": 0
+          },
+          {
+            "år": "2013",
+            "klubb": "→ River Plate (lån)",
+            "klubbLand": "Argentina",
+            "seriematcher": 17,
+            "mål": 3
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "→ Verona (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 33,
+            "mål": 8
+          },
+          {
+            "år": "2014-",
+            "klubb": "Roma",
+            "klubbLand": "Italien",
+            "seriematcher": 44,
+            "mål": 3
+          },
+          {
+            "år": "2016",
+            "klubb": "→ Bournemouth (lån)",
+            "klubbLand": "England",
+            "seriematcher": 2,
+            "mål": 0
+          },
+          {
+            "år": "2017",
+            "klubb": "→ Torino (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 16,
+            "mål": 1
+          },
+          {
+            "år": "2017-2018",
+            "klubb": "→ Tijuana (lån)",
+            "klubbLand": "Mexiko",
+            "seriematcher": 14,
+            "mål": 0
+          },
+          {
+            "år": "2018-2021",
+            "klubb": "Pumas UNAM",
+            "klubbLand": "Mexiko",
+            "seriematcher": 82,
+            "mål": 8
+          },
+          {
+            "år": "2020",
+            "klubb": "→ Pachuca (lån)",
+            "klubbLand": "Mexiko",
+            "seriematcher": 4,
+            "mål": 0
+          },
+          {
+            "år": "2021-",
+            "klubb": "Aris",
+            "klubbLand": "Grekland",
+            "seriematcher": 0,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2008-2009",
+            "landslag": "Paraguay U17",
+            "landslagsmatcher": 4,
+            "landslagsmål": 2
+          },
+          {
+            "år": "2009",
+            "landslag": "Paraguay U20",
+            "landslagsmatcher": 3,
+            "landslagsmål": 1
+          },
+          {
+            "år": "2009-2019",
+            "landslag": "Paraguay",
+            "landslagsmatcher": 12,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2011-2012",
+            "landslag": "Argentina U20",
+            "landslagsmatcher": 18,
+            "landslagsmål": 5
+          }
+        ]
+      }
+      ,
+      {
+        "id": 8,
+        "namn": "Fabio Borini",
+        "spelarKarriar": [
+          {
+            "år": "2009-2011",
+            "klubb": "Chelsea",
+            "klubbLand": "England",
+            "seriematcher": 0,
+            "mål": 0
+          },
+          {
+            "år": "2010-2011",
+            "klubb": "→ Swansea City (lån)",
+            "klubbLand": "Wales",
+            "seriematcher": 12,
+            "mål": 6
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "→ Roma (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 26,
+            "mål": 9
+          },
+          {
+            "år": "2012-2013",
+            "klubb": "Liverpool",
+            "klubbLand": "England",
+            "seriematcher": 13,
+            "mål": 2
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "→ Sunderland (lån)",
+            "klubbLand": "England",
+            "seriematcher": 32,
+            "mål": 7
+          },
+          {
+            "år": "2014-2017",
+            "klubb": "Sunderland",
+            "klubbLand": "England",
+            "seriematcher": 51,
+            "mål": 10
+          },
+          {
+            "år": "2017-2019",
+            "klubb": "Milan",
+            "klubbLand": "Italien",
+            "seriematcher": 44,
+            "mål": 8
+          },
+          {
+            "år": "2019-2020",
+            "klubb": "Verona",
+            "klubbLand": "Italien",
+            "seriematcher": 17,
+            "mål": 1
+          },
+          {
+            "år": "2020-",
+            "klubb": "Istanbul Basaksehir",
+            "klubbLand": "Turkiet",
+            "seriematcher": 23,
+            "mål": 5
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2008-2009",
+            "landslag": "Italien U17",
+            "landslagsmatcher": 11,
+            "landslagsmål": 2
+          },
+          {
+            "år": "2009-2010",
+            "landslag": "Italien U19",
+            "landslagsmatcher": 13,
+            "landslagsmål": 8
+          },
+          {
+            "år": "2011-2013",
+            "landslag": "Italien U21",
+            "landslagsmatcher": 16,
+            "landslagsmål": 6
+          },
+          {
+            "år": "2012-",
+            "landslag": "Italien",
+            "landslagsmatcher": 1,
+            "landslagsmål": 0
+          }
+        ]
+      }
+      ,
+      {
+        "id": 9,
+        "namn": "Nacer Chadli",
+        "spelarKarriar": [
+          {
+            "år": "2007-2010",
+            "klubb": "AGOVV Apeldoorn",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 90,
+            "mål": 28
+          },
+          {
+            "år": "2010-2013",
+            "klubb": "FC Twente",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 84,
+            "mål": 25
+          },
+          {
+            "år": "2013-2016",
+            "klubb": "Tottenham Hotspur",
+            "klubbLand": "England",
+            "seriematcher": 88,
+            "mål": 15
+          },
+          {
+            "år": "2016-2018",
+            "klubb": "West Bromwich Albion",
+            "klubbLand": "England",
+            "seriematcher": 36,
+            "mål": 6
+          },
+          {
+            "år": "2018-2020",
+            "klubb": "AS Monaco",
+            "klubbLand": "Frankrike",
+            "seriematcher": 16,
+            "mål": 0
+          },
+          {
+            "år": "2019-2020",
+            "klubb": "→ Anderlecht (lån)",
+            "klubbLand": "Belgien",
+            "seriematcher": 17,
+            "mål": 8
+          },
+          {
+            "år": "2020-2023",
+            "klubb": "İstanbul Başakşehir",
+            "klubbLand": "Turkiet",
+            "seriematcher": 47,
+            "mål": 5
+          },
+          {
+            "år": "2022-2023",
+            "klubb": "→ KVC Westerlo (lån)",
+            "klubbLand": "Belgien",
+            "seriematcher": 27,
+            "mål": 6
+          },
+          {
+            "år": "2023-",
+            "klubb": "KVC Westerlo",
+            "klubbLand": "Belgien",
+            "seriematcher": 0,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2011-",
+            "landslag": "Belgien",
+            "landslagsmatcher": 72,
+            "landslagsmål": 11
+          }
+        ]
+      }
+      
+      ,
+      {
+        "id": 10,
+        "namn": "Fabio Coentrao",
+        "spelarKarriar": [
+          {
+            "år": "2005-2007",
+            "klubb": "Rio Ave",
+            "klubbLand": "Portugal",
+            "seriematcher": 29,
+            "mål": 5
+          },
+          {
+            "år": "2007-2011",
+            "klubb": "Benfica",
+            "klubbLand": "Portugal",
+            "seriematcher": 52,
+            "mål": 2
+          },
+          {
+            "år": "2008",
+            "klubb": "→ Nacional (lån)",
+            "klubbLand": "Portugal",
+            "seriematcher": 16,
+            "mål": 4
+          },
+          {
+            "år": "2008",
+            "klubb": "→ Zaragoza (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 1,
+            "mål": 0
+          },
+          {
+            "år": "2009",
+            "klubb": "→ Rio Ave (lån)",
+            "klubbLand": "Portugal",
+            "seriematcher": 16,
+            "mål": 3
+          },
+          {
+            "år": "2011-2018",
+            "klubb": "Real Madrid",
+            "klubbLand": "Spanien",
+            "seriematcher": 58,
+            "mål": 1
+          },
+          {
+            "år": "2015-2016",
+            "klubb": "→ AS Monaco (lån)",
+            "klubbLand": "Frankrike",
+            "seriematcher": 15,
+            "mål": 3
+          },
+          {
+            "år": "2017-2018",
+            "klubb": "→ Sporting Lissabon (lån)",
+            "klubbLand": "Portugal",
+            "seriematcher": 25,
+            "mål": 1
+          },
+          {
+            "år": "2018-2019",
+            "klubb": "Rio Ave",
+            "klubbLand": "Portugal",
+            "seriematcher": 21,
+            "mål": 0
+          },
+          {
+            "år": "2020-2021",
+            "klubb": "Rio Ave",
+            "klubbLand": "Portugal",
+            "seriematcher": 13,
+            "mål": 2
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009-",
+            "landslag": "Portugal",
+            "landslagsmatcher": 63,
+            "landslagsmål": 5
+          }
+        ]
+      }
+      
+      ,
+      {
+        "id": 11,
+        "namn": "Valon Behrami",
+        "spelarKarriar": [
+          {
+            "år": "2002-2003",
+            "klubb": "Lugano",
+            "klubbLand": "Schweiz",
+            "seriematcher": 2,
+            "mål": 0
+          },
+          {
+            "år": "2003-2004",
+            "klubb": "Genoa",
+            "klubbLand": "Italien",
+            "seriematcher": 24,
+            "mål": 0
+          },
+          {
+            "år": "2004-2005",
+            "klubb": "→ Verona (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 32,
+            "mål": 3
+          },
+          {
+            "år": "2005-2008",
+            "klubb": "Lazio",
+            "klubbLand": "Italien",
+            "seriematcher": 65,
+            "mål": 4
+          },
+          {
+            "år": "2008-2011",
+            "klubb": "West Ham United",
+            "klubbLand": "England",
+            "seriematcher": 58,
+            "mål": 4
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "Fiorentina",
+            "klubbLand": "Italien",
+            "seriematcher": 48,
+            "mål": 0
+          },
+          {
+            "år": "2012-2014",
+            "klubb": "Napoli",
+            "klubbLand": "Italien",
+            "seriematcher": 54,
+            "mål": 0
+          },
+          {
+            "år": "2014-2015",
+            "klubb": "Hamburger SV",
+            "klubbLand": "Tyskland",
+            "seriematcher": 22,
+            "mål": 0
+          },
+          {
+            "år": "2015-2017",
+            "klubb": "Watford",
+            "klubbLand": "England",
+            "seriematcher": 43,
+            "mål": 0
+          },
+          {
+            "år": "2017-2019",
+            "klubb": "Udinese",
+            "klubbLand": "Italien",
+            "seriematcher": 39,
+            "mål": 2
+          },
+          {
+            "år": "2019",
+            "klubb": "Sion",
+            "klubbLand": "Schweiz",
+            "seriematcher": 4,
+            "mål": 0
+          },
+          {
+            "år": "2020-2022",
+            "klubb": "Genoa",
+            "klubbLand": "Italien",
+            "seriematcher": 53,
+            "mål": 0
+          },
+          {
+            "år": "2022",
+            "klubb": "Brescia",
+            "klubbLand": "Italien",
+            "seriematcher": 5,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2005-",
+            "landslag": "Schweiz",
+            "landslagsmatcher": 83,
+            "landslagsmål": 2
+          }
+        ]
+      }
+      ,
+      {
+        "id": 12,
+        "namn": "Gary Medel",
+        "spelarKarriar": [
+          {
+            "år": "2006-2011",
+            "klubb": "Universidad Católica",
+            "klubbLand": "Chile",
+            "seriematcher": 70,
+            "mål": 10
+          },
+          {
+            "år": "2009-2011",
+            "klubb": "Boca Juniors",
+            "klubbLand": "Argentina",
+            "seriematcher": 46,
+            "mål": 7
+          },
+          {
+            "år": "2011-2013",
+            "klubb": "Sevilla",
+            "klubbLand": "Spanien",
+            "seriematcher": 78,
+            "mål": 8
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "Cardiff City",
+            "klubbLand": "England",
+            "seriematcher": 34,
+            "mål": 0
+          },
+          {
+            "år": "2014-2017",
+            "klubb": "Inter",
+            "klubbLand": "Italien",
+            "seriematcher": 91,
+            "mål": 1
+          },
+          {
+            "år": "2017-2019",
+            "klubb": "Beşiktaş",
+            "klubbLand": "Turkiet",
+            "seriematcher": 51,
+            "mål": 1
+          },
+          {
+            "år": "2019-2023",
+            "klubb": "Bologna",
+            "klubbLand": "Italien",
+            "seriematcher": 96,
+            "mål": 0
+          },
+          {
+            "år": "2023-",
+            "klubb": "Vasco da Gama",
+            "klubbLand": "Brasilien",
+            "seriematcher": 0,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2007-",
+            "landslag": "Chile",
+            "landslagsmatcher": 131,
+            "landslagsmål": 7
+          }
+        ]
+      }
+      ,
+      {
+        "id": 13,
+        "namn": "Simone Zaza",
+        "spelarKarriar": [
+          {
+            "år": "2008-2010",
+            "klubb": "Atalanta",
+            "klubbLand": "Italien",
+            "seriematcher": 3,
+            "mål": 0
+          },
+          {
+            "år": "2010-2013",
+            "klubb": "Sampdoria",
+            "klubbLand": "Italien",
+            "seriematcher": 2,
+            "mål": 0
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "→ Juve Stabia (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 4,
+            "mål": 0
+          },
+          {
+            "år": "2012",
+            "klubb": "→ Viareggio (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 18,
+            "mål": 11
+          },
+          {
+            "år": "2012-2013",
+            "klubb": "→ Ascoli (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 35,
+            "mål": 18
+          },
+          {
+            "år": "2013-2015",
+            "klubb": "Sassuolo",
+            "klubbLand": "Italien",
+            "seriematcher": 64,
+            "mål": 20
+          },
+          {
+            "år": "2015-2017",
+            "klubb": "Juventus",
+            "klubbLand": "Italien",
+            "seriematcher": 19,
+            "mål": 5
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "→ West Ham United (lån)",
+            "klubbLand": "England",
+            "seriematcher": 8,
+            "mål": 0
+          },
+          {
+            "år": "2017",
+            "klubb": "→ Valencia (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 20,
+            "mål": 6
+          },
+          {
+            "år": "2017-2019",
+            "klubb": "Valencia",
+            "klubbLand": "Spanien",
+            "seriematcher": 33,
+            "mål": 13
+          },
+          {
+            "år": "2018-2019",
+            "klubb": "→ Torino (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 29,
+            "mål": 4
+          },
+          {
+            "år": "2019-2022",
+            "klubb": "Torino",
+            "klubbLand": "Italien",
+            "seriematcher": 63,
+            "mål": 12
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2014-",
+            "landslag": "Italien",
+            "landslagsmatcher": 25,
+            "landslagsmål": 11
+          }
+        ]
+      }
+      ,
+      {
+        "id": 14,
+        "namn": "Eljero Elia",
+        "spelarKarriar": [
+          {
+            "år": "2004-2007",
+            "klubb": "ADO Den Haag",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 59,
+            "mål": 6
+          },
+          {
+            "år": "2007-2009",
+            "klubb": "Twente",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 64,
+            "mål": 11
+          },
+          {
+            "år": "2009-2011",
+            "klubb": "Hamburger SV",
+            "klubbLand": "Tyskland",
+            "seriematcher": 48,
+            "mål": 7
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "Juventus",
+            "klubbLand": "Italien",
+            "seriematcher": 4,
+            "mål": 0
+          },
+          {
+            "år": "2012-2015",
+            "klubb": "Werder Bremen",
+            "klubbLand": "Tyskland",
+            "seriematcher": 66,
+            "mål": 4
+          },
+          {
+            "år": "2015",
+            "klubb": "→ Southampton (lån)",
+            "klubbLand": "England",
+            "seriematcher": 16,
+            "mål": 2
+          },
+          {
+            "år": "2015-2017",
+            "klubb": "Feyenoord",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 55,
+            "mål": 17
+          },
+          {
+            "år": "2017-2020",
+            "klubb": "İstanbul Başakşehir",
+            "klubbLand": "Turkiet",
+            "seriematcher": 68,
+            "mål": 9
+          },
+          {
+            "år": "2020-2021",
+            "klubb": "Utrecht",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 21,
+            "mål": 2
+          },
+          {
+            "år": "2021-",
+            "klubb": "ADO Den Haag",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 9,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009-2017",
+            "landslag": "Nederländerna",
+            "landslagsmatcher": 30,
+            "landslagsmål": 2
+          }
+        ]
+      }
+      ,
+      {
+        "id": 15,
+        "namn": "Konstantinos Mitroglou",
+        "spelarKarriar": [
+          {
+            "år": "2005-2007",
+            "klubb": "Borussia M'gladbach II",
+            "klubbLand": "Tyskland",
+            "seriematcher": 23,
+            "mål": 0
+          },
+          {
+            "år": "2007-2014",
+            "klubb": "Olympiakos",
+            "klubbLand": "Grekland",
+            "seriematcher": 92,
+            "mål": 41
+          },
+          {
+            "år": "2011",
+            "klubb": "→ Panionios (lån)",
+            "klubbLand": "Grekland",
+            "seriematcher": 11,
+            "mål": 8
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "→ Atromitos (lån)",
+            "klubbLand": "Grekland",
+            "seriematcher": 34,
+            "mål": 17
+          },
+          {
+            "år": "2014-2016",
+            "klubb": "Fulham",
+            "klubbLand": "England",
+            "seriematcher": 3,
+            "mål": 0
+          },
+          {
+            "år": "2014-2015",
+            "klubb": "→ Olympiakos (lån)",
+            "klubbLand": "Grekland",
+            "seriematcher": 24,
+            "mål": 16
+          },
+          {
+            "år": "2015-2016",
+            "klubb": "→ Benfica (lån)",
+            "klubbLand": "Portugal",
+            "seriematcher": 32,
+            "mål": 20
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "Benfica",
+            "klubbLand": "Portugal",
+            "seriematcher": 28,
+            "mål": 16
+          },
+          {
+            "år": "2017-2021",
+            "klubb": "Marseille",
+            "klubbLand": "Frankrike",
+            "seriematcher": 33,
+            "mål": 12
+          },
+          {
+            "år": "2019",
+            "klubb": "→ Galatasaray (lån)",
+            "klubbLand": "Turkiet",
+            "seriematcher": 7,
+            "mål": 1
+          },
+          {
+            "år": "2019-2020",
+            "klubb": "→ PSV Eindhoven (lån)",
+            "klubbLand": "Nederländerna",
+            "seriematcher": 13,
+            "mål": 1
+          },
+          {
+            "år": "2021-",
+            "klubb": "Aris",
+            "klubbLand": "Grekland",
+            "seriematcher": 8,
+            "mål": 2
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009–",
+            "landslag": "Grekland",
+            "landslagsmatcher": 64,
+            "landslagsmål": 17
+          }
+        ]
+      }
+      ,
+      {
+        "id": 16,
+        "namn": "Loïc Rémy",
+        "spelarKarriar": [
+          {
+            "år": "2006-2008",
+            "klubb": "Lyon",
+            "klubbLand": "Frankrike",
+            "seriematcher": 12,
+            "mål": 0
+          },
+          {
+            "år": "2008",
+            "klubb": "→ Lens (lån)",
+            "klubbLand": "Frankrike",
+            "seriematcher": 10,
+            "mål": 3
+          },
+          {
+            "år": "2008-2010",
+            "klubb": "Nice",
+            "klubbLand": "Frankrike",
+            "seriematcher": 68,
+            "mål": 26
+          },
+          {
+            "år": "2010-2013",
+            "klubb": "Marseille",
+            "klubbLand": "Frankrike",
+            "seriematcher": 33,
+            "mål": 17
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "Queens Park Rangers",
+            "klubbLand": "England",
+            "seriematcher": 16,
+            "mål": 6
+          },
+          {
+            "år": "2013-2014",
+            "klubb": "→ Newcastle United (lån)",
+            "klubbLand": "England",
+            "seriematcher": 26,
+            "mål": 14
+          },
+          {
+            "år": "2014-2017",
+            "klubb": "Chelsea",
+            "klubbLand": "England",
+            "seriematcher": 32,
+            "mål": 8
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "→ Crystal Palace (lån)",
+            "klubbLand": "England",
+            "seriematcher": 5,
+            "mål": 0
+          },
+          {
+            "år": "2017-2018",
+            "klubb": "Las Palmas",
+            "klubbLand": "Spanien",
+            "seriematcher": 12,
+            "mål": 5
+          },
+          {
+            "år": "2018",
+            "klubb": "→ Getafe (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 11,
+            "mål": 3
+          },
+          {
+            "år": "2018-2020",
+            "klubb": "Lille",
+            "klubbLand": "Frankrike",
+            "seriematcher": 46,
+            "mål": 14
+          },
+          {
+            "år": "2020-2022",
+            "klubb": "Çaykur Rizespor",
+            "klubbLand": "Turkiet",
+            "seriematcher": 4,
+            "mål": 1
+          },
+          {
+            "år": "2022",
+            "klubb": "Adana Demirspor",
+            "klubbLand": "Turkiet",
+            "seriematcher": 2,
+            "mål": 0
+          },
+          {
+            "år": "2023-",
+            "klubb": "Brest",
+            "klubbLand": "Frankrike",
+            "seriematcher": 0,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009-",
+            "landslag": "Frankrike",
+            "landslagsmatcher": 35,
+            "landslagsmål": 7
+          }
+        ]
+      }
+      ,
+      {
+        "id": 17,
+        "namn": "Borja Valero",
+        "spelarKarriar": [
+          {
+            "år": "2004-2005",
+            "klubb": "Real Madrid C",
+            "klubbLand": "Spanien",
+            "seriematcher": 0,
+            "mål": 0
+          },
+          {
+            "år": "2005-2007",
+            "klubb": "Real Madrid B",
+            "klubbLand": "Spanien",
+            "seriematcher": 76,
+            "mål": 4
+          },
+          {
+            "år": "2007-2008",
+            "klubb": "Mallorca",
+            "klubbLand": "Spanien",
+            "seriematcher": 34,
+            "mål": 4
+          },
+          {
+            "år": "2008-2011",
+            "klubb": "West Bromwich Albion",
+            "klubbLand": "England",
+            "seriematcher": 31,
+            "mål": 0
+          },
+          {
+            "år": "2009-2010",
+            "klubb": "→ Mallorca (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 33,
+            "mål": 5
+          },
+          {
+            "år": "2010-2011",
+            "klubb": "→ Villarreal (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 35,
+            "mål": 3
+          },
+          {
+            "år": "2011-2012",
+            "klubb": "Villarreal",
+            "klubbLand": "Spanien",
+            "seriematcher": 36,
+            "mål": 5
+          },
+          {
+            "år": "2012-2017",
+            "klubb": "Fiorentina",
+            "klubbLand": "Italien",
+            "seriematcher": 165,
+            "mål": 14
+          },
+          {
+            "år": "2017-2020",
+            "klubb": "Inter",
+            "klubbLand": "Italien",
+            "seriematcher": 82,
+            "mål": 4
+          },
+          {
+            "år": "2020-2021",
+            "klubb": "Fiorentina",
+            "klubbLand": "Italien",
+            "seriematcher": 20,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2002-2003",
+            "landslag": "Spanien U17",
+            "landslagsmatcher": 15,
+            "landslagsmål": 3
+          },
+          {
+            "år": "2003",
+            "landslag": "Spanien U18",
+            "landslagsmatcher": 3,
+            "landslagsmål": 1
+          },
+          {
+            "år": "2004",
+            "landslag": "Spanien U19",
+            "landslagsmatcher": 4,
+            "landslagsmål": 2
+          },
+          {
+            "år": "2011",
+            "landslag": "Spanien",
+            "landslagsmatcher": 1,
+            "landslagsmål": 0
+          }
+        ]
+      }
+      ,
+      {
+        "id": 18,
+        "namn": "Stevan Jovetić",
+        "spelarKarriar": [
+          {
+            "år": "2006-2008",
+            "klubb": "Partizan",
+            "klubbLand": "Serbien",
+            "seriematcher": 51,
+            "mål": 13
+          },
+          {
+            "år": "2008-2013",
+            "klubb": "Fiorentina",
+            "klubbLand": "Italien",
+            "seriematcher": 116,
+            "mål": 35
+          },
+          {
+            "år": "2013-2016",
+            "klubb": "Manchester City",
+            "klubbLand": "England",
+            "seriematcher": 30,
+            "mål": 8
+          },
+          {
+            "år": "2015-2016",
+            "klubb": "→ Inter (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 26,
+            "mål": 6
+          },
+          {
+            "år": "2016-2017",
+            "klubb": "Inter",
+            "klubbLand": "Italien",
+            "seriematcher": 5,
+            "mål": 0
+          },
+          {
+            "år": "2017",
+            "klubb": "→ Sevilla (lån)",
+            "klubbLand": "Spanien",
+            "seriematcher": 21,
+            "mål": 6
+          },
+          {
+            "år": "2017-2021",
+            "klubb": "AS Monaco",
+            "klubbLand": "Frankrike",
+            "seriematcher": 61,
+            "mål": 18
+          },
+          {
+            "år": "2021-2023",
+            "klubb": "Hertha Berlin",
+            "klubbLand": "Tyskland",
+            "seriematcher": 37,
+            "mål": 10
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2005-2006",
+            "landslag": "Serbien och Montenegro U17",
+            "landslagsmatcher": 9,
+            "landslagsmål": 3
+          },
+          {
+            "år": "2007",
+            "landslag": "Montenegro U19",
+            "landslagsmatcher": 2,
+            "landslagsmål": 1
+          },
+          {
+            "år": "2007-2010",
+            "landslag": "Montenegro U21",
+            "landslagsmatcher": 7,
+            "landslagsmål": 2
+          },
+          {
+            "år": "2007-",
+            "landslag": "Montenegro",
+            "landslagsmatcher": 65,
+            "landslagsmål": 31
+          }
+        ]
+      }
+      ,
+      {
+        "id": 19,
+        "namn": "Kevin Mirallas",
+        "spelarKarriar": [
+          {
+            "år": "2004-2008",
+            "klubb": "Lille",
+            "klubbLand": "Frankrike",
+            "seriematcher": 76,
+            "mål": 10
+          },
+          {
+            "år": "2008-2010",
+            "klubb": "Saint-Étienne",
+            "klubbLand": "Frankrike",
+            "seriematcher": 53,
+            "mål": 3
+          },
+          {
+            "år": "2010-2012",
+            "klubb": "Olympiakos",
+            "klubbLand": "Grekland",
+            "seriematcher": 52,
+            "mål": 34
+          },
+          {
+            "år": "2012-2019",
+            "klubb": "Everton",
+            "klubbLand": "England",
+            "seriematcher": 151,
+            "mål": 29
+          },
+          {
+            "år": "2018",
+            "klubb": "→ Olympiakos (lån)",
+            "klubbLand": "Grekland",
+            "seriematcher": 13,
+            "mål": 2
+          },
+          {
+            "år": "2018-2019",
+            "klubb": "→ Fiorentina (lån)",
+            "klubbLand": "Italien",
+            "seriematcher": 27,
+            "mål": 2
+          },
+          {
+            "år": "2019-2020",
+            "klubb": "Royal Antwerp",
+            "klubbLand": "Belgien",
+            "seriematcher": 18,
+            "mål": 2
+          },
+          {
+            "år": "2020-2021",
+            "klubb": "Gaziantep",
+            "klubbLand": "Turkiet",
+            "seriematcher": 28,
+            "mål": 5
+          },
+          {
+            "år": "2022-",
+            "klubb": "Moreirense",
+            "klubbLand": "Portugal",
+            "seriematcher": 0,
+            "mål": 0
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2003",
+            "landslag": "Belgien U16",
+            "landslagsmatcher": 10,
+            "landslagsmål": 8
+          },
+          {
+            "år": "2003-2004",
+            "landslag": "Belgien U17",
+            "landslagsmatcher": 13,
+            "landslagsmål": 7
+          },
+          {
+            "år": "2005",
+            "landslag": "Belgien U18",
+            "landslagsmatcher": 4,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2005-2006",
+            "landslag": "Belgien U19",
+            "landslagsmatcher": 16,
+            "landslagsmål": 4
+          },
+          {
+            "år": "2006-2007",
+            "landslag": "Belgien U21",
+            "landslagsmatcher": 5,
+            "landslagsmål": 2
+          },
+          {
+            "år": "2007-2018",
+            "landslag": "Belgien",
+            "landslagsmatcher": 60,
+            "landslagsmål": 10
+          }
+        ]
+      }
+      ,
+      {
+        "id": 20,
+        "namn": "Steven Nzonzi",
+        "spelarKarriar": [
+          {
+            "år": "2007-2009",
+            "klubb": "Amiens",
+            "klubbLand": "Frankrike",
+            "seriematcher": 37,
+            "mål": 1
+          },
+          {
+            "år": "2009-2012",
+            "klubb": "Blackburn Rovers",
+            "klubbLand": "England",
+            "seriematcher": 86,
+            "mål": 5
+          },
+          {
+            "år": "2012-2015",
+            "klubb": "Stoke City",
+            "klubbLand": "England",
+            "seriematcher": 109,
+            "mål": 6
+          },
+          {
+            "år": "2015-2018",
+            "klubb": "Sevilla",
+            "klubbLand": "Spanien",
+            "seriematcher": 90,
+            "mål": 6
+          },
+          {
+            "år": "2018-2021",
+            "klubb": "Roma",
+            "klubbLand": "Italien",
+            "seriematcher": 30,
+            "mål": 1
+          },
+          {
+            "år": "2019-2020",
+            "klubb": "→ Galatasaray (lån)",
+            "klubbLand": "Turkiet",
+            "seriematcher": 10,
+            "mål": 0
+          },
+          {
+            "år": "2020-2021",
+            "klubb": "→ Rennes (lån)",
+            "klubbLand": "Frankrike",
+            "seriematcher": 39,
+            "mål": 1
+          },
+          {
+            "år": "2021-",
+            "klubb": "Al Rayyan",
+            "klubbLand": "Qatar",
+            "seriematcher": 39,
+            "mål": 3
+          }
+        ],
+        "landslagsKarriar": [
+          {
+            "år": "2009-2010",
+            "landslag": "Frankrike U21",
+            "landslagsmatcher": 6,
+            "landslagsmål": 0
+          },
+          {
+            "år": "2017-2020",
+            "landslag": "Frankrike",
+            "landslagsmatcher": 20,
+            "landslagsmål": 0
+          }
+        ]
+      }
+      
+
+      
+
+    ]
+      
+    
+  }
+  
