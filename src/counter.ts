@@ -27,3 +27,8 @@ export interface LattareSpelareRoot {
 export interface SvarareSpelareRoot {
     svararespelare: Spelare[];
 }
+
+export default interface FlagData {
+    [country: string]: string;
+}
+
