@@ -164,7 +164,7 @@
       ,
       {
         "id": 3,
-        "namn": "Jackson Arley Martínez Valencia",
+        "namn": "Jackson Martínez",
         "spelarKarriar": [
           {
             "år": "2004-2010",
@@ -228,7 +228,7 @@
       ,
       {
         "id": 4,
-        "namn": "Quincy Anton Promes",
+        "namn": "Quincy Promes",
         "spelarKarriar": [
           {
             "år": "2011-2014",
@@ -531,7 +531,7 @@
       ,
       {
         "id": 7,
-        "namn": "Juan Manuel Iturbe Arévalos",
+        "namn": "Juan Iturbe",
         "spelarKarriar": [
           {
             "år": "2008-2010",
@@ -841,14 +841,14 @@
           },
           {
             "år": "2008",
-            "klubb": "→ Zaragoza (lån)",
+            "klubb": "Zaragoza (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 1,
             "mål": 0
           },
           {
             "år": "2009",
-            "klubb": "→ Rio Ave (lån)",
+            "klubb": "Rio Ave (lån)",
             "klubbLand": "Portugal",
             "seriematcher": 16,
             "mål": 3
@@ -862,14 +862,14 @@
           },
           {
             "år": "2015-2016",
-            "klubb": "→ AS Monaco (lån)",
+            "klubb": "AS Monaco (lån)",
             "klubbLand": "Frankrike",
             "seriematcher": 15,
             "mål": 3
           },
           {
             "år": "2017-2018",
-            "klubb": "→ Sporting Lissabon (lån)",
+            "klubb": "Sporting Lissabon (lån)",
             "klubbLand": "Portugal",
             "seriematcher": 25,
             "mål": 1
@@ -920,7 +920,7 @@
           },
           {
             "år": "2004-2005",
-            "klubb": "→ Verona (lån)",
+            "klubb": "Verona (lån)",
             "klubbLand": "Italien",
             "seriematcher": 32,
             "mål": 3
@@ -1097,21 +1097,21 @@
           },
           {
             "år": "2011-2012",
-            "klubb": "→ Juve Stabia (lån)",
+            "klubb": "Juve Stabia (lån)",
             "klubbLand": "Italien",
             "seriematcher": 4,
             "mål": 0
           },
           {
             "år": "2012",
-            "klubb": "→ Viareggio (lån)",
+            "klubb": "Viareggio (lån)",
             "klubbLand": "Italien",
             "seriematcher": 18,
             "mål": 11
           },
           {
             "år": "2012-2013",
-            "klubb": "→ Ascoli (lån)",
+            "klubb": "Ascoli (lån)",
             "klubbLand": "Italien",
             "seriematcher": 35,
             "mål": 18
@@ -1132,14 +1132,14 @@
           },
           {
             "år": "2016-2017",
-            "klubb": "→ West Ham United (lån)",
+            "klubb": "West Ham United (lån)",
             "klubbLand": "England",
             "seriematcher": 8,
             "mål": 0
           },
           {
             "år": "2017",
-            "klubb": "→ Valencia (lån)",
+            "klubb": "Valencia (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 20,
             "mål": 6
@@ -1153,7 +1153,7 @@
           },
           {
             "år": "2018-2019",
-            "klubb": "→ Torino (lån)",
+            "klubb": "Torino (lån)",
             "klubbLand": "Italien",
             "seriematcher": 29,
             "mål": 4
@@ -1217,7 +1217,7 @@
           },
           {
             "år": "2015",
-            "klubb": "→ Southampton (lån)",
+            "klubb": "Southampton (lån)",
             "klubbLand": "England",
             "seriematcher": 16,
             "mål": 2
@@ -1281,14 +1281,14 @@
           },
           {
             "år": "2011",
-            "klubb": "→ Panionios (lån)",
+            "klubb": "Panionios (lån)",
             "klubbLand": "Grekland",
             "seriematcher": 11,
             "mål": 8
           },
           {
             "år": "2011-2012",
-            "klubb": "→ Atromitos (lån)",
+            "klubb": "Atromitos (lån)",
             "klubbLand": "Grekland",
             "seriematcher": 34,
             "mål": 17
@@ -1302,14 +1302,14 @@
           },
           {
             "år": "2014-2015",
-            "klubb": "→ Olympiakos (lån)",
+            "klubb": "Olympiakos (lån)",
             "klubbLand": "Grekland",
             "seriematcher": 24,
             "mål": 16
           },
           {
             "år": "2015-2016",
-            "klubb": "→ Benfica (lån)",
+            "klubb": "Benfica (lån)",
             "klubbLand": "Portugal",
             "seriematcher": 32,
             "mål": 20
@@ -1330,14 +1330,14 @@
           },
           {
             "år": "2019",
-            "klubb": "→ Galatasaray (lån)",
+            "klubb": "Galatasaray (lån)",
             "klubbLand": "Turkiet",
             "seriematcher": 7,
             "mål": 1
           },
           {
             "år": "2019-2020",
-            "klubb": "→ PSV Eindhoven (lån)",
+            "klubb": "PSV Eindhoven (lån)",
             "klubbLand": "Nederländerna",
             "seriematcher": 13,
             "mål": 1
@@ -1373,7 +1373,7 @@
           },
           {
             "år": "2008",
-            "klubb": "→ Lens (lån)",
+            "klubb": "Lens (lån)",
             "klubbLand": "Frankrike",
             "seriematcher": 10,
             "mål": 3
@@ -1401,7 +1401,7 @@
           },
           {
             "år": "2013-2014",
-            "klubb": "→ Newcastle United (lån)",
+            "klubb": "Newcastle United (lån)",
             "klubbLand": "England",
             "seriematcher": 26,
             "mål": 14
@@ -1415,7 +1415,7 @@
           },
           {
             "år": "2016-2017",
-            "klubb": "→ Crystal Palace (lån)",
+            "klubb": "Crystal Palace (lån)",
             "klubbLand": "England",
             "seriematcher": 5,
             "mål": 0
@@ -1429,7 +1429,7 @@
           },
           {
             "år": "2018",
-            "klubb": "→ Getafe (lån)",
+            "klubb": "Getafe (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 11,
             "mål": 3
@@ -1507,14 +1507,14 @@
           },
           {
             "år": "2009-2010",
-            "klubb": "→ Mallorca (lån)",
+            "klubb": "Mallorca (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 33,
             "mål": 5
           },
           {
             "år": "2010-2011",
-            "klubb": "→ Villarreal (lån)",
+            "klubb": "Villarreal (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 35,
             "mål": 3
@@ -1603,7 +1603,7 @@
           },
           {
             "år": "2015-2016",
-            "klubb": "→ Inter (lån)",
+            "klubb": "Inter (lån)",
             "klubbLand": "Italien",
             "seriematcher": 26,
             "mål": 6
@@ -1617,7 +1617,7 @@
           },
           {
             "år": "2017",
-            "klubb": "→ Sevilla (lån)",
+            "klubb": "Sevilla (lån)",
             "klubbLand": "Spanien",
             "seriematcher": 21,
             "mål": 6
@@ -1699,14 +1699,14 @@
           },
           {
             "år": "2018",
-            "klubb": "→ Olympiakos (lån)",
+            "klubb": "Olympiakos (lån)",
             "klubbLand": "Grekland",
             "seriematcher": 13,
             "mål": 2
           },
           {
             "år": "2018-2019",
-            "klubb": "→ Fiorentina (lån)",
+            "klubb": "Fiorentina (lån)",
             "klubbLand": "Italien",
             "seriematcher": 27,
             "mål": 2
@@ -1814,14 +1814,14 @@
           },
           {
             "år": "2019-2020",
-            "klubb": "→ Galatasaray (lån)",
+            "klubb": "Galatasaray (lån)",
             "klubbLand": "Turkiet",
             "seriematcher": 10,
             "mål": 0
           },
           {
             "år": "2020-2021",
-            "klubb": "→ Rennes (lån)",
+            "klubb": "Rennes (lån)",
             "klubbLand": "Frankrike",
             "seriematcher": 39,
             "mål": 1
